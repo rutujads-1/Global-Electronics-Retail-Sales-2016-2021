@@ -95,6 +95,22 @@ Regionally, the United States, United Kingdom, Germany, Canada, and Australia we
 Among all brands, Contoso consistently recorded the highest order volume, reflecting strong brand preference.
 
 
+
+
+
+
+
+<img width="590" alt="image" src="https://github.com/user-attachments/assets/e53e7173-b73f-4f99-acce-d9f537d2a5a8" />
+
+
+
+
+
+
+
+
+
+
 ## Insights Deep Dive
 
 *Are there any seasonal patterns or trends for order volume or revenue?*
@@ -354,6 +370,19 @@ Among individual products:
 •	**WWI Desktop PC2.33 X2330 Black** was the highest revenue-generating product
 
 
+
+
+
+
+<img width="587" alt="image" src="https://github.com/user-attachments/assets/018eaa9b-b7b5-4e64-84e7-dc50d6fd17db" />
+
+
+
+
+
+
+
+
 *Where are the Customers located?*
 
 The comapany's customer base spans three continents—**Australia, Europe, and North America**—covering eight countries: **Australia(780 customers), Canada(1179), France(438), Germany(1150), Italy(530), the Netherlands(534), the United Kingdom(1570), and the United States(5706)**.
@@ -416,6 +445,19 @@ The top five countries by AOV were: **Italy, Australia, Germany, United States, 
 
 •	Most Orders Placed (in terms of both volume and order counts): **Gaspare Trevisan (Italy)**
 
+
+
+
+
+<img width="588" alt="image" src="https://github.com/user-attachments/assets/a64ec926-f0cb-4009-8abd-488efa6fe63d" />
+
+
+
+
+
+
+
+
 *Is there a difference in average order value (AOV) for online vs. in-store sales?*
 
 **Online Trends**
@@ -432,6 +474,17 @@ Online AOV started at $1,007.2 in 2016, gradually declining to $832.7 in 2019. I
 
 The number of new online customers increased from 431 in 2016 to 656 in 2018. It then declined slightly to 625 in 2019, followed by a sharper drop to 219 in 2020 and just 20 in 2021.
 
+
+
+
+<img width="584" alt="image" src="https://github.com/user-attachments/assets/1cd00223-c807-406d-88e1-7d78058021ee" />
+
+
+
+
+
+
+
  **In-Store Trends**
  
 *Revenue*
@@ -445,6 +498,13 @@ In-store AOV declined year-over-year from $1,005.8 in 2016 to $848.6 in 2019 and
 *Customer Trend*
 
 New in-store customers totalled 2,130 in 2016, declining to 1,898 in 2017. The number rose again to 2,448 in 2018, then dipped to 2,207 in 2019. A significant drop followed in 2020 with just 728 new customers, and the figure currently stands at 47 in 2021.
+
+
+<img width="588" alt="image" src="https://github.com/user-attachments/assets/3bec60fd-2b5f-45b1-b75a-2bb4337d0ef4" />
+
+
+
+
 
 **Key Insight**
 
@@ -471,6 +531,17 @@ It has steadily declined:
 •	3.85 in 2021
 
 *There are currently 50K undelivered orders in the system, which may impact future delivery metrics*.
+
+
+
+
+
+<img width="251" alt="image" src="https://github.com/user-attachments/assets/0d702b20-f135-4931-af81-1f6b83c403f6" />
+
+
+
+
+
 
 ## Recommendations 
 

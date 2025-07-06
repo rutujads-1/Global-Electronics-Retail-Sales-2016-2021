@@ -113,14 +113,33 @@ Among all brands, Contoso consistently recorded the highest order volume, reflec
 
 ## Insights Deep Dive
 
-*Are there any seasonal patterns or trends for order volume or revenue?*
+### Are there any seasonal patterns or trends for order volume or revenue?
 
 **Revenue Trends**
 
 
 
 
-<img width="235" alt="image" src="https://github.com/user-attachments/assets/ed61e684-6a1f-4d22-b03b-d15c69b7b4ab" />
+
+
+
+
+
+
+
+
+
+<img width="275" alt="image" src="https://github.com/user-attachments/assets/91308562-5b11-457f-9b1e-cd3a9064fa77" />
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -224,7 +243,26 @@ Order Volume Trend Analysis (2016–2021)
 
 
 
-<img width="236" alt="image" src="https://github.com/user-attachments/assets/b96f5fe6-360b-4744-8fc3-ebbf6aab3501" />
+
+
+
+
+
+
+
+
+
+<img width="259" alt="image" src="https://github.com/user-attachments/assets/cde3f0a8-27b2-48c2-99ef-ca6eb194d960" />
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -321,7 +359,7 @@ This trend mirrors the revenue trend, suggesting that both metrics are influence
 The post-pandemic years broke the seasonal pattern, with continuous declines in order volume throughout the year, reflecting global disruptions and decreased consumer activity.
 
 
-*What types of Products does the Company Sell?*
+### What types of Products does the Company Sell?
 
 The company offers a diverse range of products across categories such as **Computers, Home Appliances, Cameras & Camcorders, Cell Phones, TV & Audio, Music, Movies & Audiobooks, and Games & Toys**.
 
@@ -349,6 +387,38 @@ The company offers a diverse range of products across categories such as **Compu
 
 •	Within the TV & Video category, **Televisions** were the highest revenue-generating product type. The brand **Adventure Works** led this category, contributing the most revenue from television sales.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="251" alt="image" src="https://github.com/user-attachments/assets/8324d53d-12e4-4bd9-bd11-320805684a79" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 *In terms of order volume, the top 5 categories are: Computers, Cell Phones, Music, Movies & Audio Books, Audio, and Games & Toys.*
 
 •	Computers increased from 3435 items in 2016 to a peak of 16203 in 2019, before declining to 7941 in 2020 and 982 in 2021.
@@ -361,13 +431,86 @@ The company offers a diverse range of products across categories such as **Compu
 
 •	**Games & Toys** started at 1710 items in 2016, peaked at 9278 in 2019, and fell to 4956 in 2020 and is at 455 in 2021.
 
+
+
+
+
+
+
+
+
+
+<img width="304" alt="image" src="https://github.com/user-attachments/assets/7c328177-785e-4f9b-bb78-947db53546b5" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 Total orders from in-store channels were 37,776, while online orders accounted for 10,126, confirming stronger in-store performance during the years analysed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/39736b73-719e-4080-a771-47d950cbfaca" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/17d1fc62-ff9c-4740-84f7-f5350977eaa0" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Among individual products:
 
 •	**Adventure Works Desktop PC2.30 MD230 Black** was the most ordered product in terms of order counts.
 
 •	**WWI Desktop PC2.33 X2330 Black** was the highest revenue-generating product
+
+
+
 
 
 
@@ -383,9 +526,40 @@ Among individual products:
 
 
 
-*Where are the Customers located?*
+
+
+
+
+
+
+### Where are the Customers located?*
 
 The comapany's customer base spans three continents—**Australia, Europe, and North America**—covering eight countries: **Australia(780 customers), Canada(1179), France(438), Germany(1150), Italy(530), the Netherlands(534), the United Kingdom(1570), and the United States(5706)**.
+
+
+
+
+
+
+
+
+<img width="239" alt="image" src="https://github.com/user-attachments/assets/82cd0180-e33d-4092-b1df-729f0eb43e84" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 *Customer and Regional Analysis*
 
@@ -423,6 +597,53 @@ Revenue rose from $274K in 2016 to $689K in 2019, before declining to $24.8K in 
 
 In 2016, Australia had 97 new customers, followed closely by 96 in 2017. The numbers increased to 163 in 2018 and peaked at 171 in 2019. A downward trend began in 2020, with new customers dropping to 71, and further to just 7 in 2021.
 
+
+
+
+
+
+
+
+
+
+
+
+<img width="275" alt="image" src="https://github.com/user-attachments/assets/fe1a7405-228d-4e20-8e56-97dbcdb617e5" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="237" alt="image" src="https://github.com/user-attachments/assets/692ef40e-acaa-457a-bdcb-f36e8dea9e8d" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **Average Order Value (AOV) by region**
 
 The top five countries by AOV were: **Italy, Australia, Germany, United States, and France**.
@@ -437,6 +658,43 @@ The top five countries by AOV were: **Italy, Australia, Germany, United States, 
 
 •	**France**: AOV peaked at $957.8 in 2020 but dropped sharply to $639 in 2021.
 
+
+
+
+
+
+
+
+
+
+<img width="183" alt="image" src="https://github.com/user-attachments/assets/a106a37d-6c9a-4b83-82c8-a31a1450fd07" />
+
+
+
+
+
+
+
+
+
+
+
+<img width="242" alt="image" src="https://github.com/user-attachments/assets/1bc7b0e9-61f3-46d4-8cc2-9b46637b5128" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 *Top Customers*
 
 •	Highest Revenue Generated: **Matthew Flemming (United States)**
@@ -444,6 +702,19 @@ The top five countries by AOV were: **Italy, Australia, Germany, United States, 
 •	Highest AOV: **Kian Sims (United Kingdom)**
 
 •	Most Orders Placed (in terms of both volume and order counts): **Gaspare Trevisan (Italy)**
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -458,7 +729,17 @@ The top five countries by AOV were: **Italy, Australia, Germany, United States, 
 
 
 
-*Is there a difference in average order value (AOV) for online vs. in-store sales?*
+
+
+
+
+
+
+
+
+
+
+### Is there a difference in average order value (AOV) for online vs. in-store sales?*
 
 **Online Trends**
 
@@ -477,7 +758,19 @@ The number of new online customers increased from 431 in 2016 to 656 in 2018. It
 
 
 
+
+
+
+
+
+
 <img width="584" alt="image" src="https://github.com/user-attachments/assets/1cd00223-c807-406d-88e1-7d78058021ee" />
+
+
+
+
+
+
 
 
 
@@ -500,7 +793,31 @@ In-store AOV declined year-over-year from $1,005.8 in 2016 to $848.6 in 2019 and
 New in-store customers totalled 2,130 in 2016, declining to 1,898 in 2017. The number rose again to 2,448 in 2018, then dipped to 2,207 in 2019. A significant drop followed in 2020 with just 728 new customers, and the figure currently stands at 47 in 2021.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="588" alt="image" src="https://github.com/user-attachments/assets/3bec60fd-2b5f-45b1-b75a-2bb4337d0ef4" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -510,7 +827,7 @@ New in-store customers totalled 2,130 in 2016, declining to 1,898 in 2017. The n
 
 Overall, the Average Order Value (AOV) for in-store purchases ($892) is comparable to that of online purchases ($866.3). While the order volume is significantly higher in stores (49,719 vs. 13,165 online), the data suggests that online customers shop less frequently but tend to place higher-value orders.
 
-*How long is the average delivery time in days? Has that changed over time?*
+### How long is the average delivery time in days? Has that changed over time?
 
 **Average Delivery Time**
 
@@ -536,7 +853,35 @@ It has steadily declined:
 
 
 
-<img width="251" alt="image" src="https://github.com/user-attachments/assets/0d702b20-f135-4931-af81-1f6b83c403f6" />
+
+
+
+
+
+
+
+
+
+<img width="294" alt="image" src="https://github.com/user-attachments/assets/afde3b17-374c-4784-8506-7814cb8b03fa" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

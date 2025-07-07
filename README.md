@@ -71,8 +71,8 @@ This dashboard and analysis are designed to assist cross-functional teams includ
 
 
 
+<img src="https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021/blob/main/Images/ERD%20.jpg" alt="Sales Dashboard" width="900" />
 
-![image](https://github.com/user-attachments/assets/e0bddba8-aac0-4cef-813c-1526a140469d)
 
 
 

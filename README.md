@@ -129,7 +129,8 @@ Among all brands, Contoso consistently recorded the highest order volume, reflec
 
 
 
-<img width="275" alt="image" src="https://github.com/user-attachments/assets/91308562-5b11-457f-9b1e-cd3a9064fa77" />
+<img src="https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021/blob/main/Images/Revenue%20Trend.jpg" alt="Revenue Trend" width="700" />
+
 
 
 
@@ -252,7 +253,7 @@ Order Volume Trend Analysis (2016–2021)
 
 
 
-<img width="259" alt="image" src="https://github.com/user-attachments/assets/cde3f0a8-27b2-48c2-99ef-ca6eb194d960" />
+<img src="https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021/blob/main/Images/Order%20Volume%20Trend.jpg" alt="Order Volume" width="700" />
 
 
 
@@ -400,7 +401,9 @@ The company offers a diverse range of products across categories such as **Compu
 
 
 
-<img width="251" alt="image" src="https://github.com/user-attachments/assets/8324d53d-12e4-4bd9-bd11-320805684a79" />
+<img src="https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021/blob/main/Images/Revenue%20By%20year%20and%20Category.jpg" alt="Revenue by year and category" width="700" />
+
+
 
 
 
@@ -439,8 +442,7 @@ The company offers a diverse range of products across categories such as **Compu
 
 
 
-
-<img width="304" alt="image" src="https://github.com/user-attachments/assets/7c328177-785e-4f9b-bb78-947db53546b5" />
+<img src="https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021/blob/main/Images/Order%20Volume%20By%20Category.jpg" alt="Order Vol by Category" width="700" />
 
 
 
@@ -543,7 +545,8 @@ The comapany's customer base spans three continents—**Australia, Europe, and N
 
 
 
-<img width="239" alt="image" src="https://github.com/user-attachments/assets/82cd0180-e33d-4092-b1df-729f0eb43e84" />
+
+<img src="https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021/blob/main/Images/Customer%20By%20Country.jpg" alt="Cust by Country" width="700" />
 
 
 
@@ -608,7 +611,7 @@ In 2016, Australia had 97 new customers, followed closely by 96 in 2017. The num
 
 
 
-<img width="275" alt="image" src="https://github.com/user-attachments/assets/fe1a7405-228d-4e20-8e56-97dbcdb617e5" />
+<img src="https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021/blob/main/Images/Regional%20Revenue%20Trend.jpg" alt="Regional Revenue Trend" width="700" />
 
 
 
@@ -667,7 +670,8 @@ The top five countries by AOV were: **Italy, Australia, Germany, United States, 
 
 
 
-<img width="183" alt="image" src="https://github.com/user-attachments/assets/a106a37d-6c9a-4b83-82c8-a31a1450fd07" />
+
+<img src="https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021/blob/main/Images/AOV%20By%20Country.jpg" alt="AOV by region" width="700" />
 
 
 
@@ -862,7 +866,8 @@ It has steadily declined:
 
 
 
-<img width="294" alt="image" src="https://github.com/user-attachments/assets/afde3b17-374c-4784-8506-7814cb8b03fa" />
+
+<img src="https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021/blob/main/Images/Average%20Delivery%20Days.jpg" alt="Avg Delivery Days" width="700" />
 
 
 

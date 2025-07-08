@@ -470,7 +470,7 @@ Total orders from in-store channels were 37,776, while online orders accounted f
 
 
 
-<img width="284" alt="image" src="https://github.com/user-attachments/assets/39736b73-719e-4080-a771-47d950cbfaca" />
+<img src="https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021/blob/main/Images/Products%20by%20Revenue.jpg" alt="Products by Revenue Table" width="700" />
 
 
 
@@ -487,7 +487,9 @@ Total orders from in-store channels were 37,776, while online orders accounted f
 
 
 
-<img width="284" alt="image" src="https://github.com/user-attachments/assets/17d1fc62-ff9c-4740-84f7-f5350977eaa0" />
+
+<img src="https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021/blob/main/Images/Products%20by%20Order%20Volume.jpg" alt="Products by AOV table" width="700" />
+
 
 
 
@@ -509,7 +511,7 @@ Among individual products:
 
 •	**Adventure Works Desktop PC2.30 MD230 Black** was the most ordered product in terms of order counts.
 
-•	**WWI Desktop PC2.33 X2330 Black** was the highest revenue-generating product
+•	**WWI Desktop PC2.33 X2330 Black** was the highest revenue-generating product.
 
 
 
@@ -534,7 +536,7 @@ Among individual products:
 
 
 
-### Where are the Customers located?*
+### Where are the Customers located?
 
 The comapany's customer base spans three continents—**Australia, Europe, and North America**—covering eight countries: **Australia(780 customers), Canada(1179), France(438), Germany(1150), Italy(530), the Netherlands(534), the United Kingdom(1570), and the United States(5706)**.
 
@@ -627,7 +629,7 @@ In 2016, Australia had 97 new customers, followed closely by 96 in 2017. The num
 
 
 
-<img width="237" alt="image" src="https://github.com/user-attachments/assets/692ef40e-acaa-457a-bdcb-f36e8dea9e8d" />
+<img src="https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021/blob/main/Images/Country%20by%20Revenue.jpg" alt="Table country by revenue" width="700" />
 
 
 
@@ -683,7 +685,8 @@ The top five countries by AOV were: **Italy, Australia, Germany, United States, 
 
 
 
-<img width="242" alt="image" src="https://github.com/user-attachments/assets/1bc7b0e9-61f3-46d4-8cc2-9b46637b5128" />
+<img src="https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021/blob/main/Images/Country%20by%20AOV.jpg" alt="Country By AOV" width="700" />
+
 
 
 
@@ -895,8 +898,90 @@ It has steadily declined:
 
 ## Recommendations 
 
+1. Revenue and order volumes consistently dip during Q1–Q2 across pre-pandemic years (2016–2019), with recovery beginning in Q3 and peaking in Q4.
+
+   Recommendation:
+   
+   Plan seasonal marketing campaigns and product launches from Q3 onward to align with increased consumer demand.
+   
+   Consider cost-saving measures or inventory optimization during slower quarters (Q1–Q2).
+
+2. AOV (Average Order Value) is higher for online shoppers ($866.3) compared to in-store ($892), despite online having fewer transactions.
+
+   Recommendation:
+   
+   Invest in improving the online shopping experience (e.g., premium product bundles, upselling techniques) to drive more high-value purchases.
+   
+   Target high-value customers online with personalized offers and promotions.
+
+3. Major revenue-generating countries are United States, United Kingdom, Germany, Canada, and Australia.
+   
+   Recommendation:
+   
+   Continue to prioritize sales and marketing resources in these high-performing regions.
+   
+   Launch region-specific loyalty programs and optimize supply chains to sustain momentum.
+
+4. Lower-revenue regions (France, Netherlands, Italy) contribute less despite global product success.
+   
+   Recommendation:
+   
+   Focus on promoting top-performing categories (e.g., computers, appliances) more aggressively in these underperforming regions.
+   
+   Alternatively, lean into categories that are already doing relatively well locally to minimize costs and improve profitability.
+
+5. The top 5 revenue-generating categories are Computers, Home Appliances, Cameras & Camcorders, Cell Phones, and TV & Audio, but regional performance varies.
+
+   Recommendation:
+   
+   Use region-product alignment to fine-tune marketing and stocking strategies.
+   
+   Avoid pushing low-performing products into regions where demand is weak—optimize SKU mix by region.
+
+
 
 ## Questions to Stakeholders, Assumptions & Caveats
+
+
+### Questions to Stakeholders before Progressing in the Project
+
+1. Are there any discount strategies or promotional campaigns applied historically?
+   
+*The dataset only includes the product unit price, not actual sale prices or discounts.*
+
+2. What defines a successful order — revenue volume, frequency, or customer retention?
+   
+*This would help refine KPIs and prioritize analysis dimensions accordingly.*
+
+3. Do we want to track repeat customer behavior and long-term value?
+   
+*This may require additional data on customer retention, satisfaction, or loyalty programs.*
+
+
+### Assumptions
+
+1. All sales are assumed to be at full unit price.
+   
+Since no discount, promotional, or negotiated prices are provided, revenue is calculated as:
+
+Revenue = Quantity × Unit Price
+
+2. Product cost and unit price are fixed over time.
+   
+There's no time-based fluctuation captured in product pricing.
+
+3. Delivery time is assumed to be the difference between order and delivery date, and represents complete delivery.
+   
+Partial deliveries or delays beyond system-recorded dates aren't reflected.
+
+### Caveats
+
+1. Revenue is estimated using full Unit Prices without considering discounts, returns, or promotional pricing.
+
+2. The analysis does not factor in currency exchange rate volatility over time — all revenue figures are calculated in USD using the provided static rates.
+
+
+
 
 
 

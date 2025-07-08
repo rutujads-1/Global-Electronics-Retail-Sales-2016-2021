@@ -100,7 +100,8 @@ Among all brands, Contoso consistently recorded the highest order volume, reflec
 
 
 
-<img width="590" alt="image" src="https://github.com/user-attachments/assets/e53e7173-b73f-4f99-acce-d9f537d2a5a8" />
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/0f498306-4ef2-4c83-80c0-c06569037237" />
+
 
 
 
@@ -521,7 +522,8 @@ Among individual products:
 
 
 
-<img width="587" alt="image" src="https://github.com/user-attachments/assets/018eaa9b-b7b5-4e64-84e7-dc50d6fd17db" />
+<img width="573" alt="image" src="https://github.com/user-attachments/assets/721f32ba-d28b-41cd-a50b-fc1093a5e9de" />
+
 
 
 
@@ -548,7 +550,7 @@ The comapany's customer base spans three continents—**Australia, Europe, and N
 
 
 
-<img src="https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021/blob/main/Images/Customer%20By%20Country.jpg" alt="Cust by Country" width="700" />
+<img src="https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021/blob/main/Images/Customer%20Count%20By%20Country.jpg" alt="Cust by Country" width="700" />
 
 
 
@@ -727,7 +729,8 @@ The top five countries by AOV were: **Italy, Australia, Germany, United States, 
 
 
 
-<img width="588" alt="image" src="https://github.com/user-attachments/assets/a64ec926-f0cb-4009-8abd-488efa6fe63d" />
+<img width="574" alt="image" src="https://github.com/user-attachments/assets/2db23e50-bad2-422c-a645-e6c522c7e2ff" />
+
 
 
 
@@ -771,7 +774,8 @@ The number of new online customers increased from 431 in 2016 to 656 in 2018. It
 
 
 
-<img width="584" alt="image" src="https://github.com/user-attachments/assets/1cd00223-c807-406d-88e1-7d78058021ee" />
+<img width="572" alt="image" src="https://github.com/user-attachments/assets/93cedc2d-627d-4ca8-82e8-9a5af543a85b" />
+
 
 
 
@@ -813,7 +817,8 @@ New in-store customers totalled 2,130 in 2016, declining to 1,898 in 2017. The n
 
 
 
-<img width="588" alt="image" src="https://github.com/user-attachments/assets/3bec60fd-2b5f-45b1-b75a-2bb4337d0ef4" />
+<img width="569" alt="image" src="https://github.com/user-attachments/assets/c4d24868-9f30-4185-9b05-99930e4a4fef" />
+
 
 
 

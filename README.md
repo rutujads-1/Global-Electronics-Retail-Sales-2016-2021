@@ -16,7 +16,7 @@ This project is built on six years of transaction-level data (from 2016 to 2021)
 
 •	Currency exchange rates
 
-**The primary objective is to analyze sales performance across product categories across regions and channels to identify key revenue and volume drivers and low and high performing product segments to help sales teams refine sales stratergies.**
+**The primary objective is to analyze sales performance to identify how different product categories generate value and what levers can realistically improve performance to help sales teams refine sales stratergies.**
 
 
 
@@ -50,11 +50,11 @@ This project is built on six years of transaction-level data (from 2016 to 2021)
 
 ## Executive Summary
 
-Total Revenue for 2016 to 2020 was $55M with a profit of $26.6M  from 26K orders. Revenue and order counts showed a parallel upward movement increasing Year over Year. Both metrics reached the peak in 2019 before falling sharply in 2020 owing to the pandemic. In 2020 revenue and order counts dropped sharply following a downward trend throughout owing to the pandemic.
+Total Revenue for 2016 to 2020 was $55M with a profit of $26.6M  from 26K orders. **Revenue and order counts showed a parallel upward movement increasing Year over Year.** Both metrics **reached the peak in 2019** before falling sharply in 2020 owing to the pandemic. In 2020 revenue and order counts dropped sharply following a downward trend throughout the year.
  
-Quarterly patterns reveal that each year till 2019, revenue and order counts showed a decline in the first two quarters and a massive rise in the last two. The slump in the first two quarters could be attributed to — and the year end rise could be attributed to holiday season surges. 
+Quarterly patterns reveal that each year till 2019, **revenue and order counts showed a decline in the first two quarters and a massive rise in the last two**. The slump in the first two quarters could be attributed to — and the year end rise could be attributed to holiday season surges. 
 
-The major drivers of the seasonality trend were- computers, cameras and camcorders, cell phones and TV and Video.
+The major drivers of this seasonality trend were- computers, cameras and camcorders, cell phones and TV and Video.
 
 Overall, regionally- United States,United Kingdom and Germany were the top 3 Revenue Contributors. Second in line to in-store US channels, the online channel generated a revenue of $ 11M.
 
@@ -74,11 +74,11 @@ Overall,in terms of average order value- it was comparable across regions.
 
 **Core Revenue Drivers**
 
-1. Computers catrgory the primary driver, leading across revenue,order volume and AOV which indicates strong demand and high ticket value. Consumers buy them often and they are high cost items which explains the high revenue, order volume and AOV. 
+1. Computers category is the primary driver, leading across revenue and order volume which indicates strong demand and high ticket value. Consumers buy them often and they are high cost items which explains the high revenue, order volume.
 
 2. Home Appliances generate the second highest revenue, driven by high AOV than order volume which means consumers buy less but when they buy they spend high amounts per order as these products have high costs. 
 
-3. Cameras & Camcorders, Cell Phones, and TV & Video operate in a similar revenue band, but achieve it through different mechanics (volume vs price).The items in these categories are bought often by consumers but are not high cost items in comparison to other countries thus generating less revenue despite more purchases.
+3. Cameras & Camcorders, Cell Phones, and TV & Video operate in a similar revenue band after computers and home appliances.The items in these categories are bought often by consumers but are not high cost items in comparison to other countries thus generating less revenue despite more purchases.
 
 **Volume Driven Categories**
 
@@ -89,7 +89,7 @@ These categories would benefit from dynamic SKU planning aligned to demand cycle
 
 **Average Order Volume Dynamics**
 
-1. Home Appliances have the highest AOV, followed by TV & Video, Computers, and Cameras & Camcorders, which cluster in a similar premium range as these categories generate high revenue but low orders. 
+1. Home Appliances have the highest AOV, followed by TV & Video, Computers, and Cameras & Camcorders, which cluster in a similar premium range. 
 
 2. Cell Phones sit in the mid-range AOV, while Games & Toys have the lowest AOV overall as they have comparatively low priced and generate less orders.
 
@@ -116,13 +116,24 @@ United States drove the largest revenue and order count with the main drivers be
 
 
 
-Overall, the categories can be divided into- 
+Overall, the categories can be divided based on order volume and revenue:
 
-1. low revenue and low order volume: Games and Toys, Music Movies and Audio Books,  Audio
+1. Computers- high order count and high Revenue
 
-2. Mid revenue and mid order volume: cell phones, Cameras and Camcorders, TV and Video.
+2. Home Appliances- high Revenue, low order count
 
-3. High Revenue and High Volume: Computers and Home Appliances
+3. Cell Phones- high order count, mid range Revenue
+
+4. Cameras and camcorders- mid range revenue, low range order count
+
+5. TV and Video- mid range revenue, low order count
+
+6. Music Movies and Audio Books- high order count but low revenue
+
+7. Audio- similar to the above category- high order count but low revenue
+
+8. Games and Audio- low revenue, mid range order count
+
 
 We need different sales stratergies across categories as each cluster contributes differently to overall performance. 
 

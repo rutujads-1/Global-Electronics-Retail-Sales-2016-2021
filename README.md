@@ -16,7 +16,7 @@ This project is built on six years of transaction-level data (from 2016 to 2021)
 
 •	Currency exchange rates
 
-**The primary objective is to analyze sales performance across product categories across regions and channels to identify key revenue and volume drivers and low and high performing product segments to help sales teams refine sales stratergies and product managers for deeper product level decisions.**
+**The primary objective is to analyze sales performance across product categories across regions and channels to identify key revenue and volume drivers and low and high performing product segments to help sales teams refine sales stratergies.**
 
 
 
@@ -84,6 +84,8 @@ Overall,in terms of average order value- it was comparable across regions.
 
 1. Cell Phones, Music, Movies & Audiobooks, Audio, and Games & Toys generate the highest order volumes. Despite strong order volumes, apart from cell phones, other categories don't generate translate the order volume to revenue.
 
+These categories would benefit from dynamic SKU planning aligned to demand cycles which would help optimise inventory. 
+
 
 **Average Order Volume Dynamics**
 
@@ -103,7 +105,7 @@ Volume driven categories rely heavily on frequency and not basket size while low
 
 **Profitability Context**
 
-Profit margins are broadly similar across categories which means the differences in performance come from the order volume and pricing of the products. 
+Profit margins are broadly similar across categories which means the differences in performance come from customer demand and pricing of the products. So product teams don't need to remove any product at this stage as all categories are profitable, but they serve different roles in the product portfolio. 
 
 
 **Regional Analysis**
@@ -122,12 +124,17 @@ Overall, the categories can be divided into-
 
 3. High Revenue and High Volume: Computers and Home Appliances
 
-
+We need different sales stratergies across categories as each cluster contributes differently to overall performance. 
 
 
 **Channel Analysis**
 
 Revenue coming from sale of products in store is $44M through 20K orders while online sales generate $11M via 5K orders. The AOV is thus comparable across channels. 
+
+Both channels are economically viable, but in-store performance is driven by higher transaction frequency rather than high spend per order. So online channels should complement in-store channels rather than replace them. 
+
+
+
 
 
 
@@ -148,6 +155,16 @@ Revenue coming from sale of products in store is $44M through 20K orders while o
    
 *This may require additional data on customer retention, satisfaction, or loyalty programs.*
 
+## Recommendations
+
+1. The highest demand is in Q3 and Q4 across regions. Since customers buy home appliances less often but spend more when they do which is during Q3 and Q4, offering sensible bundles during peak seasons can encourage them to buy more in one go. Regionally, in regions like France and Netherlands stock those products that consumers are buying during those peak periods rather than bundling of products.
+
+2. Cell phones- this category is majorly volume driven hence we should focus on SKUs that have high demand across years specific to regions and sell them more often and make them easy to buy with right add-ons. Categories like Touch Screen Phones and Smart phones & PDAs are the two that consistenly drive highest unit volumes should be focused on.
+
+3. In low demand regions like France and Netherlands maintain all categories
+  
+ 
+
 
 ### Assumptions
 
@@ -161,9 +178,6 @@ Revenue = Quantity × Unit Price
    
 There's no time-based fluctuation captured in product pricing.
 
-3. Delivery time is assumed to be the difference between order and delivery date, and represents complete delivery.
-   
-Partial deliveries or delays beyond system-recorded dates aren't reflected.
 
 ### Caveats
 

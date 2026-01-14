@@ -54,7 +54,7 @@ This project is built on data that has six years of transaction-level  (from 201
 
 <p align="center">
   <img src="Images/Exec page_trend.png" width="45%" />
-  <img src="Images/<img src="Images/drivers_seasonality_exec.png" width="45%" />.png" width="45%" />
+  <img src="Images/drivers_seasonality_exec.png" width="45%">
 </p>
 <br>
 <p align="center">
@@ -87,6 +87,10 @@ Since the United States drove a revenue of ~19M which is almost half of the tota
 ### Product Performance In United States
 
 Among the 8 product categories, different categories added different value in terms of the metrics- revenue and order volume. Top 3 products in terms of revenue were- Computers, Home Appliances and Cameras and camcorders. 
+
+<p align="center">
+  <img src="Images/prod perf us.png" width="45%" />
+</p>
 
 In terms of order volume the  top 3 products were- computers, cell phones and Music Movies and Audio Books. 
 

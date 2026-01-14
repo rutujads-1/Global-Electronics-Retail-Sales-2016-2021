@@ -19,7 +19,7 @@ This project is based on six years of transaction-level data (2016–2021) spann
 
 **The primary objective is to analyse sales performance across regions and categories to help sales teams device stratergies to harness areas of revenue growth.**
 
-
+Link to dashboard: https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021/blob/main/Global%20electronics%20Dashboard.pbix
 
 ## Data Structure and Overview
 

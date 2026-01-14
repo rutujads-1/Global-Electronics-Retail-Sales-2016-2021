@@ -58,7 +58,7 @@ This project is built on data that has six years of transaction-level  (from 201
 </p>
 <br>
 <p align="center">
-  <img src="Images/country table_exec.png" width="45%" />
+  <img src="Images/country table_exec.png" width="40%" />
 </p>
 
 
@@ -96,28 +96,74 @@ In terms of order volume the  top 3 products were- computers, cell phones and Mu
 
 **Top Revenue generating products-**
 
+
+<p align="center">
+  <img src="Images/rev by sub cat comp.png" width="40%" />
+</p>
+
 Similar to the overall product trend, **computers are the most important category** in the United States driving a  total revenue of **$ 6M**  with **~4K orders**.
 Within computers the desktop sub category drove revenue generating a total of $3M which is half of the total revenue the category generates while the accessory parts like printers, scanners and Fax generated the least revenue of $255K. Since this is a high performing category driven by desktops, during the peaks in Q4 high selling SKUs can be meaningfully bundled with accessory parts to increase basket value. 
 
+
+<p align="center">
+  <img src="Images/rev by sub cat HA.png" width="40%" />
+</p>
+
 Home Appliances is the second highest revenue generating with the highest AOV, which explains that this is a high priced category where users don’t buy frequently but spend heavy amounts per order. This category is driven by Water heaters in terms of revenue while coffee machines and microwaves contribute less. To maximise revenue from this category,strategies to increase sales basket value can be devised during the high demand periods. 
+
+
+<p align="center">
+  <img src="Images/rev by sub cat camera.png" width="40%" />
+</p>
 
 Cameras and camcorders is the third highest revenue generating category with a mid range AOV, demonstrating that again this is a high priced niche category which has less total orders but has high per order purchase. This category is driven by Camcorders which generate the highest revenue while digital cameras contribute the least. Both sub categories have comparable units sold but Camcorders have a high AOV in comparison to digital cameras. The difference in performance is due to price points and not a lot due to demand. 
 
 
 **Top Order Volume generating products-**
 
+<p align="center">
+  <img src="Images/orders sub cat comp.png" width="40%" />
+</p>
+
 Computers is not only the highest revenue generating but highest selling category in terms of order volume with a total of 15K units sold with desktops being the highest selling sub category. 
 
+
+<p align="center">
+  <img src="Images/orders sub cate cell.png" width="40%" />
+</p>
+
 Cell phones are the second highest contributor to order volume(**2,715 orders**) after computers and drive a good share of revenue. Revenue from this category does depend on order volume since per purchase amount spent is less. This category is led by Touch Screen Phones and Smart phones & PDAs which generate comparable revenue. 
+
+
+<p align="center">
+  <img src="Images/orders sub cat mma.png" width="40%" />
+</p>
 
 Music Movies and Audio Books is the third highest contributor to order volume(**2,609 orders**) but generates low revenue indicating that this is again a volume driven category with low price points. This has only one subcategory of Movie DVDs with two brands offering products. Since this category does have demand indicated by the order volume, a new brand and product variations can be introduced with different pricing and the performance can then be monitored. 
 
 
 ### Performance across stores in the United States
 
+<p align="center">
+  <img src="Images/store perf top 3 revenue drivers.png" width="40%" />
+</p>
+
+
 There are a total of **20 stores** in the United States spread across different regions. The top 3 stores in terms of revenue are StoreKey 50,54,55.
 
 Analysing further to see if store performance impacts revenue across categories shows that **store performance does have an impact in sales across categories**.
+
+
+<p align="center">
+  <img src="Images/slacks table.png" width="50%" />
+</p>
+
+
+<p align="center">
+  <img src="Images/store inactivity_monthly trend.png" width="40%" />
+</p>
+
+
 
 Monthly analysis across revenue, order volume, month-on-month growth, and AOV reveals that some stores experience recurring **slack months with zero sales**, while others continue to generate revenue during the same periods. This pattern is observed across all categories. Encouragingly, the frequency of such slack months has declined over time, indicating improved store–category coverage and greater demand consistency compared to earlier years.
 
@@ -128,11 +174,23 @@ Another pattern found across some outlets is that certain stores **are not showi
 
 ### Customer Profile Analysis
 
+
+<p align="center">
+  <img src="Images/age dist cust profile.png" width="45%" />
+  <img src="Images/revenue age dist.png" width="45%">
+</p>
+
+
 In the United States there are ~ **7K customers** generating a revenue of 23M. Across age groups, the numbers are comparable except for the **disparity in 18-24** where customer count is extremely low in comparison to other age brackets. 
 
 This is directly related to the revenue generated through each category, as **other categories have a higher revenue generation** in comparison to 18-24. 
 
 With a total population of the United States being ~ 331M in 2020, this market has huge potential and we need strategies to increase the customer base. 
+
+
+<p align="center">
+  <img src="Images/repeat cust behavior.png" width="45%" />
+</p>
 
 On analysing repeat purchase behavior, while repeat purchasing has increased steadily over time, the low absolute values indicate that **customer retention remains weak** overall and we need stratergies to increase retention which have the potential to improve revenue outcomes. 
 

@@ -205,7 +205,7 @@ Another pattern found across some outlets is that certain stores **are not showi
 </p>
 
 
-In the United States there are ~ **7K customers** generating a revenue of 23M. Across age groups, the numbers are comparable except for the **disparity in 18-24** where customer count is extremely low in comparison to other age brackets. 
+In the United States there are ~ **7K customers** generating a revenue of $19M. Across age groups, the numbers are comparable except for the **disparity in 18-24** where customer count is extremely low in comparison to other age brackets. 
 
 This is directly related to the revenue generated through each category, as **other categories have a higher revenue generation** in comparison to 18-24. 
 

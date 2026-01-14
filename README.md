@@ -52,6 +52,17 @@ This project is built on data that has six years of transaction-level  (from 201
 
 ## Executive Summary
 
+<p align="center">
+  <img src="images/Exec page_trend.png" width="45%" />
+</p>
+
+
+<p align="center">
+  <img src="images/repeat_purchases.png" width="45%" />
+  <img src="images/customer_frequency.png" width="45%" />
+</p>
+
+
 The business generated a total revenue of $45M through 21K orders with a profit of ~ $27M in the years 2016 to 2019.
 
 **Revenue and order volume showed a parallel upward trend till 2019. Over the years a quarterly trend emerged, where revenue and growth showed a decline from Q1 to Q2 and then an increase from Q3 to Q4. This pattern can be explained by the end of year festive surges.** 
@@ -82,8 +93,8 @@ In terms of order volume the  top 3 products were- computers, cell phones and Mu
 
 **Top Revenue generating products-**
 
-Similar to the overall product trend, computers are the most important category in the United States driving a  total revenue of $ 8,015K  with ~5K orders.
-Within computers the desktop sub category drove revenue generating a total of $4M while the accessory parts like printers, scanners and Fax generated the least revenue of $316K. Since this is a high performing category driven by desktops, during the peaks in Q4 high selling SKUs can be meaningfully bundled with accessory parts to increase basket value. 
+Similar to the overall product trend, **computers are the most important category** in the United States driving a  total revenue of **$ 6M**  with **~4K orders**.
+Within computers the desktop sub category drove revenue generating a total of $3M which is half of the total revenue the category generates while the accessory parts like printers, scanners and Fax generated the least revenue of $255K. Since this is a high performing category driven by desktops, during the peaks in Q4 high selling SKUs can be meaningfully bundled with accessory parts to increase basket value. 
 
 Home Appliances is the second highest revenue generating with the highest AOV, which explains that this is a high priced category where users don’t buy frequently but spend heavy amounts per order. This category is driven by Water heaters in terms of revenue while coffee machines and microwaves contribute less. To maximise revenue from this category,strategies to increase sales basket value can be devised during the high demand periods. 
 
@@ -94,20 +105,18 @@ Cameras and camcorders is the third highest revenue generating category with a m
 
 Computers is not only the highest revenue generating but highest selling category in terms of order volume with a total of 15K units sold with desktops being the highest selling sub category. 
 
-Cell phones are the second highest contributor to order volume(~3K orders) after computers and drive a good share of revenue. Revenue from this category does depend on order volume since per purchase amount spent is less. This category is led by Touch Screen Phones and Smart phones & PDAs which generate comparable revenue. 
+Cell phones are the second highest contributor to order volume(**2,715 orders**) after computers and drive a good share of revenue. Revenue from this category does depend on order volume since per purchase amount spent is less. This category is led by Touch Screen Phones and Smart phones & PDAs which generate comparable revenue. 
 
-Music Movies and Audio Books is the third highest contributor to order volume(~3K orders) but generates low revenue indicating that this is again a volume driven category with low price points. This has only one subcategory of Movie DVDs with two brands offering products. Since this category does have demand indicated by the order volume, a new brand and product variations can be introduced with different pricing and the performance can then be monitored. 
+Music Movies and Audio Books is the third highest contributor to order volume(**2,609 orders**) but generates low revenue indicating that this is again a volume driven category with low price points. This has only one subcategory of Movie DVDs with two brands offering products. Since this category does have demand indicated by the order volume, a new brand and product variations can be introduced with different pricing and the performance can then be monitored. 
 
 
 ### Performance across stores in the United States
 
 There are a total of **20 stores** in the United States spread across different regions. The top 3 stores in terms of revenue are StoreKey 50,54,55.
 
-Store with StoreKey **63** has had **no sales through 2020** across all product categories despite sales being generated from all other stores during this period and thus needs to be further investigated.  
-
 Analysing further to see if store performance impacts revenue across categories shows that **store performance does have an impact in sales across categories**.
 
-Monthly analysis across years in terms of revenue, month on month revenue growth and order count and AOV reveal that across  some stores there are certain **slack months** in the year where there is **no sale** while other stores show revenue growth in those months, a pattern seen across all categories. 
+Monthly analysis across revenue, order volume, month-on-month growth, and AOV reveals that some stores experience recurring **slack months with zero sales**, while others continue to generate revenue during the same periods. This pattern is observed across all categories. Encouragingly, the frequency of such slack months has declined over time, indicating improved store–category coverage and greater demand consistency compared to earlier years.
 
 Apart from the year end Q4 spike, there are **seasonal spikes across the months of April to June** with spikes in revenue being **prominent in May** across majority stores for all product categories through all  years till 2019. These spikes could indicate increased demand in the summer months while overall sales in Q1 and Q2 are slow. 
 
@@ -122,22 +131,21 @@ This is directly related to the revenue generated through each category, as **ot
 
 With a total population of the United States being ~ 331M in 2020, this market has huge potential and we need strategies to increase the customer base. 
 
-
+On analysing repeat purchase behavior, while repeat purchasing has increased steadily over time, the low absolute values indicate that **customer retention remains weak** overall and we need stratergies to increase retention which have the potential to improve revenue outcomes. 
 
 Across all these age groups three product categories have shown a constant increase in the revenue year on year - **Audio, Cell phones and Computers**. Efforts should be put into devising strategies to maximise outputs from here since they cater to all age groups. 
 
 
 ## Recommendations
 
-1. For the main driver category- computers, certain stores show low or moderate growth rates during October to December across 2016-2019. This is alarming because these are the peak selling periods, thus we should be further checking in store performances and possibly replicating strategies followed by stores showing high growth rates during this period.
-   
- 2. Across categories throughout the years there are certain slack months where there is no sale across some stores.Investigation needs to be done to check if this slack is due to lack of demand in that region where the store is or due to some other reason.
-     
-3. For all categories there are seasonal spikes specially in the months of April to June with spikes being prominent in May across majority stores and across all years till 2019. This needs to be further seen as to what’s driving these spikes-could be attributed to seasonal summer sales. We could target these periods to maximise sales with promotional offers.
+1. Analyse underperforming stores in Q4 and replicate best practices from high-growth locations to maximise performance during peak demand.
 
-4. The total customer base is ~7K in the United States.Disparity exists across age groups where 18-24 is under represented. With a total population of the US being 331M, we need to devise strategies to increase the customer base through more stores? certain promotions like discounting?
+2. Introduce loyalty and rewards programs to improve customer retention, increase repeat purchases, and reduce recurring monthly revenue slumps, while enabling more personalised, data-driven customer engagement.
+
+3. Strategic partnerships with third-party distributors could broaden distribution channels and support customer base expansion in the U.S., which currently stands at approximately 7K customers.
+
+4. Strategy development for the Audio, Computers, and Cell Phones categories is likely to be more straightforward, given their consistent year-over-year revenue growth across age groups.
    
-5. Audio, computers and cell phones see revenue growth year on year across all age groups, thus expending all efforts on these categories would lead to overall revenue growth. Product teams can further monitor which sub categories and brands show more growth across different age groups?? New products can be added?? Schemes during holiday seasons to increase revenue here?
 
 
 ## Questions to Stakeholders, Assumptions & Caveats
@@ -181,7 +189,15 @@ There's no time-based fluctuation captured in product pricing.
 
 3. Pricing remains constant for the 4 year period as there's no data given for price volitality. 
 
+## Next Steps
 
+1. Price Elasticity Analysis:
+   
+Extend the analysis by introducing simulated price increases and decreases to evaluate demand sensitivity, as current cost data is static.
+
+3. Market Basket Analysis:
+   
+Analyse co-purchasing patterns to identify products that are frequently bought together and assess potential bundling opportunities.
 
 
 

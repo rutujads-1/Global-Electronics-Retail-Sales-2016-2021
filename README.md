@@ -53,13 +53,12 @@ This project is built on data that has six years of transaction-level  (from 201
 ## Executive Summary
 
 <p align="center">
-  <img src="images/Exec page_trend.png" width="45%" />
+  <img src="Images/Exec page_trend.png" width="45%" />
+  <img src="Images/<img src="Images/drivers_seasonality_exec.png" width="45%" />.png" width="45%" />
 </p>
-
-
+<br>
 <p align="center">
-  <img src="images/repeat_purchases.png" width="45%" />
-  <img src="images/customer_frequency.png" width="45%" />
+  <img src="Images/country table_exec.png" width="45%" />
 </p>
 
 
@@ -77,7 +76,7 @@ Since the United States drove a revenue of ~19M which is almost half of the tota
 
 
 
-<img width="575" alt="image" src="https://github.com/user-attachments/assets/0f498306-4ef2-4c83-80c0-c06569037237" />
+
 
 
 

@@ -4,7 +4,7 @@
 
 **Nexora Electronics** is a fictitious global electronics retailer with operations spanning North America, Europe, and Australia. The company offers a diverse range of consumer electronics spread across 8 categories- Computers, Cell phones, TV and Video, Home Appliances, Music Movies and Audio Books, Audio, Cameras and camcorders, Games and Toys. Nexora’s omnichannel strategy allows it to sell products both through its e-commerce platforms and physical retail stores which are present in 8 countries- United States, United Kingdom, Germany, Australia, Canada, France, Italy and Netherlands.
 
-This project is built on data that has six years of transaction-level  (from 2016 to 2021) includes multiple interconnected datasets, of which four years (2016-2019) are used for the purpose of this analysis, covering:
+This project is based on six years of transaction-level data (2016–2021) spanning multiple interconnected datasets. For the purpose of this analysis, a four-year period (2016–2019) is used, covering:
 
 •	Sales and order transactions
 
@@ -14,15 +14,19 @@ This project is built on data that has six years of transaction-level  (from 201
 
 •	Store locations
 
-•	Currency exchange rates
 
 
 
-**The primary objective is to analyse sales performance across regions and categories and help sales teams device stratergies to harness areas of revenue growth.**
+**The primary objective is to analyse sales performance across regions and categories to help sales teams device stratergies to harness areas of revenue growth.**
 
 
 
 ## Data Structure and Overview
+
+<p align="center">
+  <img src="Images/ERD.png" width="40%" />
+</p>
+<br>
 
 **Sales** - Fact table containing transaction-level records. Each row represents a specific order line, including order and delivery dates, quantity, unit price, and related foreign keys for customer, product, store, and currency.
 
@@ -31,22 +35,6 @@ This project is built on data that has six years of transaction-level  (from 201
 **Customers** - Dimension table with customer demographic information such as customer ID, name, birthdate, gender, and country.
 
 **Stores** - Dimension table containing store-level attributes including store name, location (city, country), and a unique store identifier.
-
-**Exchange_Rates** - Table containing historical currency exchange rates by date and currency code, used for converting transaction values to USD.
-
-
-
-
-
-
-
-<img src="https://github.com/rutujads-1/Global-Electronics-Retail-Sales-2016-2021/blob/main/Images/ERD%20.jpg" alt="Sales Dashboard" width="900" />
-
-
-
-
-
-
 
 
 
@@ -60,19 +48,19 @@ This project is built on data that has six years of transaction-level  (from 201
 <p align="center">
   <img src="Images/country table_exec.png" width="40%" />
 </p>
+<br>
 
+The business generated a total revenue of $45M through 21K orders with a profit of ~ $27M across the four year period.
 
-The business generated a total revenue of $45M through 21K orders with a profit of ~ $27M in the years 2016 to 2019.
+**Revenue and order volume showed a parallel upward trend till 2019. Over the years a quarterly trend emerged, where revenue and order volume showed a decline from Q1 to Q2 and then an increase from Q3 to Q4. This pattern can be explained by the end of year festive surges.** 
 
-**Revenue and order volume showed a parallel upward trend till 2019. Over the years a quarterly trend emerged, where revenue and growth showed a decline from Q1 to Q2 and then an increase from Q3 to Q4. This pattern can be explained by the end of year festive surges.** 
+The **major drivers** of the seasonality trend were- **Computers, Cameras and camcorders, Cell phones and TV and Video**. 
 
-The **major drivers** of the seasonality trend were- **computers, cameras and camcorders, cell phones and TV and Video**. 
-
-Overall, computers were the major contributor in revenue and order volume. Games and Toys were the least contributors to revenue while TV and Video category drove the least orders. Profit margins were comparable across product categories which indicates performance is driven by revenue, order volume or Average Order Value(AOV). 
+Overall, Computers category was the major contributor in revenue and order volume. Games and Toys category was the least contributor to revenue while TV and Video category drove the least orders. Profit margins were comparable across product categories which indicates performance is driven by revenue, order volume or Average Order Value(AOV). 
 
 Regionally, the **United States** contributed to nearly half of the total revenue while countries like France earned the lowest revenue but the AOV was comparable across the countries which indicates that differences in order volume led to the differences in performance. 
 
-Since the United States drove a revenue of ~19M which is almost half of the total revenue, the focus is on this market to identify levers of growth and areas of improvement. 
+Since the United States drove a revenue of ~19M which is almost half of the total revenue, **the focus is on this market to identify levers of growth and areas of improvement.**
 
 
 
@@ -86,60 +74,93 @@ Since the United States drove a revenue of ~19M which is almost half of the tota
 
 ### Product Performance In United States
 
-Among the 8 product categories, different categories added different value in terms of the metrics- revenue and order volume. Top 3 products in terms of revenue were- Computers, Home Appliances and Cameras and camcorders. 
+Among the 8 product categories, different categories added different value in terms of the metrics- revenue and order volume. **Top 3 products** in terms of **revenue** were- **Computers, Home Appliances and Cameras and camcorders**.
+
+In terms of **order volume** the  top 3 products were- **Computers, Cell phones and Music Movies and Audio Books**. 
+
 
 <p align="center">
   <img src="Images/prod perf us.png" width="45%" />
 </p>
 
-In terms of order volume the  top 3 products were- computers, cell phones and Music Movies and Audio Books. 
 
 **Top Revenue generating products-**
 
+**1. Computers**
 
 <p align="center">
   <img src="Images/rev by sub cat comp.png" width="40%" />
 </p>
+<p align="center">
+  <sub>Revenue split for Computers by subcategories.</sub>
+</p>
+<br>
 
 Similar to the overall product trend, **computers are the most important category** in the United States driving a  total revenue of **$ 6M**  with **~4K orders**.
-Within computers the desktop sub category drove revenue generating a total of $3M which is half of the total revenue the category generates while the accessory parts like printers, scanners and Fax generated the least revenue of $255K. Since this is a high performing category driven by desktops, during the peaks in Q4 high selling SKUs can be meaningfully bundled with accessory parts to increase basket value. 
+Within computers the **desktop sub category drove revenue** generating a total of $3M which is half of the total revenue the category generates while the accessory parts like printers, scanners and Fax generated the least revenue of $255K. Since this is a high performing category driven by desktops, during the peaks in Q4 high selling SKUs can be meaningfully bundled with accessory parts to increase basket value. 
 
+**2. Home Appliances**
 
 <p align="center">
   <img src="Images/rev by sub cat HA.png" width="40%" />
 </p>
+<p align="center">
+  <sub>Revenue split for Home Appliances by subcategories.</sub>
+</p>
+<br>
 
-Home Appliances is the second highest revenue generating with the highest AOV, which explains that this is a high priced category where users don’t buy frequently but spend heavy amounts per order. This category is driven by Water heaters in terms of revenue while coffee machines and microwaves contribute less. To maximise revenue from this category,strategies to increase sales basket value can be devised during the high demand periods. 
+Home Appliances is the second highest revenue generating category(**$4M**) with the highest AOV, which explains that this is a high priced category where users don’t buy frequently but spend heavy amounts per order. This category is driven by **Water heaters** in terms of revenue while coffee machines and microwaves contribute less. To maximise revenue from this category,strategies to increase sales basket value can be devised during the high demand periods. 
 
-
+**3. Cameras and camcorders**
+   
 <p align="center">
   <img src="Images/rev by sub cat camera.png" width="40%" />
 </p>
+<p align="center">
+  <sub>Revenue split for Cameras and camcorders by subcategories.</sub>
+</p>
+<br>
 
-Cameras and camcorders is the third highest revenue generating category with a mid range AOV, demonstrating that again this is a high priced niche category which has less total orders but has high per order purchase. This category is driven by Camcorders which generate the highest revenue while digital cameras contribute the least. Both sub categories have comparable units sold but Camcorders have a high AOV in comparison to digital cameras. The difference in performance is due to price points and not a lot due to demand. 
+Cameras and camcorders is the third highest revenue generating category(**$2M**) with a mid range AOV, demonstrating that again this is a high priced niche category which has less total orders but has high per order purchase. This category is driven by **Camcorders** which generate the highest revenue while digital cameras contribute the least. Both sub categories have comparable units sold but Camcorders have a high AOV in comparison to digital cameras. The difference in performance is due to price points and not a lot due to demand. 
 
 
 **Top Order Volume generating products-**
 
+**1. Computers**
+   
 <p align="center">
   <img src="Images/orders sub cat comp.png" width="40%" />
 </p>
+<p align="center">
+  <sub>Order Volume split for Computers by subcategories.</sub>
+</p>
+<br>
 
-Computers is not only the highest revenue generating but highest selling category in terms of order volume with a total of 15K units sold with desktops being the highest selling sub category. 
+Computers is not only the highest revenue generating but highest selling category in terms of order volume with a total of **3,720** orders with **desktops** being the **highest selling sub category**. 
 
-
+**2. Cell phones**
+   
 <p align="center">
   <img src="Images/orders sub cate cell.png" width="40%" />
 </p>
+<p align="center">
+  <sub>Order Volume split for Cell phones by subcategories.</sub>
+</p>
+<br>
 
-Cell phones are the second highest contributor to order volume(**2,715 orders**) after computers and drive a good share of revenue. Revenue from this category does depend on order volume since per purchase amount spent is less. This category is led by Touch Screen Phones and Smart phones & PDAs which generate comparable revenue. 
+Cell phones are the second highest contributor to order volume(**2,715 orders**) after computers and drive a good share of revenue. Revenue from this category does depend on order volume since per purchase amount spent is less. This category is led by **Touch Screen Phones and Smart phones** & PDAs which generate comparable revenue. 
 
-
+**3. Music Movies and Audio Books**
+   
 <p align="center">
   <img src="Images/orders sub cat mma.png" width="40%" />
 </p>
+<p align="center">
+  <sub>Order Volume split for Music Movies and Audio Books by subcategory.</sub>
+</p>
+<br>
 
-Music Movies and Audio Books is the third highest contributor to order volume(**2,609 orders**) but generates low revenue indicating that this is again a volume driven category with low price points. This has only one subcategory of Movie DVDs with two brands offering products. Since this category does have demand indicated by the order volume, a new brand and product variations can be introduced with different pricing and the performance can then be monitored. 
+Music Movies and Audio Books is the third highest contributor to order volume(**2,609 orders**) but generates low revenue indicating that this is again a volume driven category with low price points. This has **only one subcategory of Movie DVDs** with two brands offering products. Since this category does have demand indicated by the order volume, a new brand and product variations can be introduced with different pricing and the performance can then be monitored. 
 
 
 ### Performance across stores in the United States
@@ -158,6 +179,9 @@ Analysing further to see if store performance impacts revenue across categories 
   <img src="Images/slacks table.png" width="50%" />
 </p>
 
+<p align="center">
+  <sub>The table contents here are filtered and represented for one category to show the slack, a period where no sale happened in the month represented as blank, which is observed across all categories.</sub>
+</p>
 
 <p align="center">
   <img src="Images/store inactivity_monthly trend.png" width="40%" />
@@ -165,7 +189,7 @@ Analysing further to see if store performance impacts revenue across categories 
 
 
 
-Monthly analysis across revenue, order volume, month-on-month growth, and AOV reveals that some stores experience recurring **slack months with zero sales**, while others continue to generate revenue during the same periods. This pattern is observed across all categories. Encouragingly, the frequency of such slack months has declined over time, indicating improved store–category coverage and greater demand consistency compared to earlier years.
+Monthly analysis across revenue, order volume, month-on-month growth, and AOV reveals that some stores experience recurring **slack months with zero sales**, while others continue to generate revenue during the same periods. This pattern is observed across all categories. Encouragingly, the frequency of such slack months has declined over time, which could indicate improved store–category coverage and greater demand consistency compared to earlier years.
 
 Apart from the year end Q4 spike, there are **seasonal spikes across the months of April to June** with spikes in revenue being **prominent in May** across majority stores for all product categories through all  years till 2019. These spikes could indicate increased demand in the summer months while overall sales in Q1 and Q2 are slow. 
 
@@ -185,7 +209,7 @@ In the United States there are ~ **7K customers** generating a revenue of 23M. A
 
 This is directly related to the revenue generated through each category, as **other categories have a higher revenue generation** in comparison to 18-24. 
 
-With a total population of the United States being ~ 331M in 2020, this market has huge potential and we need strategies to increase the customer base. 
+With the estimated United States population in 2019 being approximately 328 million, this market has huge potential and we need strategies to increase the customer base. 
 
 
 <p align="center">
@@ -222,9 +246,6 @@ Across all these age groups three product categories have shown a constant incre
    
 *This would help refine KPIs and prioritize analysis dimensions accordingly.*
 
-3. Do we want to track repeat customer behavior and long-term value?
-   
-*This may require additional data on customer retention, satisfaction, or loyalty programs.*
 
 
 
@@ -240,15 +261,14 @@ Revenue = Quantity × Unit Price
    
 There's no time-based fluctuation captured in product pricing.
 
-3.  StoreKey 46,52,58 and 60 have shown no sales in this four year period and thus have not been taken into considerating.
+3.  StoreKey 46,52,58 and 60 have shown no sales in this four year period and thus have not been taken into consideration.
 
 ### Caveats
 
 1. Revenue is estimated using full Unit Prices without considering discounts, returns, or promotional pricing.
 
 2. The analysis does not factor in currency exchange rate volatility over time — all revenue figures are calculated in USD using the provided static rates.
-
-3. Pricing remains constant for the 4 year period as there's no data given for price volitality. 
+ 
 
 ## Next Steps
 

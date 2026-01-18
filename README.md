@@ -14,7 +14,7 @@
   
 - [Recommendations](#recommendations)
 
-- [Assumptions & Caveats](#assumptions-&-caveats)
+- [Assumptions and Caveats](#assumptions-and-caveats)
   
 - [Next Steps](#next-steps)
 
@@ -252,7 +252,7 @@ Across all these age groups three product categories have shown a constant incre
    
 
 
-## Assumptions & Caveats
+## Assumptions and Caveats
 
 ### Assumptions
 

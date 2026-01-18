@@ -14,7 +14,7 @@
   
 - [Recommendations](#recommendations)
 
-- [Questions to Stakeholders, Assumptions & Caveats](#questions-to-stakeholders-,-assumptions-&-caveats)
+- [Assumptions & Caveats](#assumptions-&-caveats)
   
 - [Next Steps](#next-steps)
 
@@ -252,21 +252,7 @@ Across all these age groups three product categories have shown a constant incre
    
 
 
-## Questions to Stakeholders, Assumptions & Caveats
-
-
-### Questions to Stakeholders before Progressing in the Project
-
-1. Are there any discount strategies or promotional campaigns applied historically?
-   
-*The dataset only includes the product unit price, not actual sale prices or discounts.*
-
-2. What defines a successful order — revenue volume, frequency, or customer retention?
-   
-*This would help refine KPIs and prioritize analysis dimensions accordingly.*
-
-
-
+## Assumptions & Caveats
 
 ### Assumptions
 

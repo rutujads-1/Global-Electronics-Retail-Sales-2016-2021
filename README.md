@@ -1,6 +1,6 @@
 # Global-Electronics-Retail-Sales-2016-2021
 
-
+This project analyzes global sales data for Nexora Electronics and builds an interactive Power BI dashboard to evaluate regional and category-level performance (2016–2019), supporting data-driven growth strategies.
 
 ## Table of Contents
 

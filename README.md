@@ -1,6 +1,25 @@
 # Global-Electronics-Retail-Sales-2016-2021
 
-## Background & Overview
+
+
+## Table of Contents
+
+- [Background and Overview](#background-and-overview)
+  
+- [Data Structure and Overview](#data-structure-and-overview)
+  
+- [Executive Summary](#executive-summary)
+  
+- [Insights Deep Dive](#insights-deep-dive)
+  
+- [Recommendations](#recommendations)
+
+- [Questions to Stakeholders, Assumptions & Caveats](#questions-to-stakeholders-,-assumptions-&-caveats)
+  
+- [Next Steps](#next-steps)
+
+
+## Background and Overview
 
 **Nexora Electronics** is a fictitious global electronics retailer with operations spanning North America, Europe, and Australia. The company offers a diverse range of consumer electronics spread across 8 categories- Computers, Cell phones, TV and Video, Home Appliances, Music Movies and Audio Books, Audio, Cameras and camcorders, Games and Toys. Nexora’s omnichannel strategy allows it to sell products both through its e-commerce platforms and physical retail stores which are present in 8 countries- United States, United Kingdom, Germany, Australia, Canada, France, Italy and Netherlands.
 

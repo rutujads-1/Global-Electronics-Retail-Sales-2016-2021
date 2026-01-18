@@ -281,7 +281,7 @@ There's no time-based fluctuation captured in product pricing.
    
 Extend the analysis by introducing simulated price increases and decreases to evaluate demand sensitivity, as current cost data is static.
 
-3. Market Basket Analysis:
+2. Market Basket Analysis:
    
 Analyse co-purchasing patterns to identify products that are frequently bought together and assess potential bundling opportunities.
 
